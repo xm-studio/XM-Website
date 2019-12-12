@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6f6412cd933015f21c24e87965641574",
+    "revision": "aef0c0788c55ed89f83b9076355260e4",
     "url": "/XM-Website/index.html"
   },
   {
-    "revision": "20ad6a5dcd03c3a8b9ae",
-    "url": "/XM-Website/static/css/main.2223bc5b.chunk.css"
+    "revision": "451631fca17af375b65e",
+    "url": "/XM-Website/static/css/main.0fdcb72b.chunk.css"
   },
   {
     "revision": "0e2c28b34e24960ee226",
     "url": "/XM-Website/static/js/2.ad138723.chunk.js"
   },
   {
-    "revision": "20ad6a5dcd03c3a8b9ae",
-    "url": "/XM-Website/static/js/main.002d104e.chunk.js"
+    "revision": "451631fca17af375b65e",
+    "url": "/XM-Website/static/js/main.c81c7797.chunk.js"
   },
   {
     "revision": "5834f4aa366b6a364aba",
