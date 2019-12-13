@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f485cc57d1761c75decc47fbf1c56ff3",
+    "revision": "4d5b6ff10ff9c53e652cd3b1d714f983",
     "url": "/XM-Website/index.html"
   },
   {
-    "revision": "4b0ee78509089edafb77",
+    "revision": "2cc4d310fc31c75ad82c",
     "url": "/XM-Website/static/css/main.87715e5e.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/XM-Website/static/js/2.6f2701c9.chunk.js"
   },
   {
-    "revision": "4b0ee78509089edafb77",
-    "url": "/XM-Website/static/js/main.ee55f2b1.chunk.js"
+    "revision": "2cc4d310fc31c75ad82c",
+    "url": "/XM-Website/static/js/main.740fd0e4.chunk.js"
   },
   {
     "revision": "5834f4aa366b6a364aba",
