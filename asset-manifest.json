@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/XM-Website/static/css/main.87715e5e.chunk.css",
-    "main.js": "/XM-Website/static/js/main.d81f49da.chunk.js",
-    "main.js.map": "/XM-Website/static/js/main.d81f49da.chunk.js.map",
+    "main.js": "/XM-Website/static/js/main.bdeef526.chunk.js",
+    "main.js.map": "/XM-Website/static/js/main.bdeef526.chunk.js.map",
     "runtime-main.js": "/XM-Website/static/js/runtime-main.a5f2ffbb.js",
     "runtime-main.js.map": "/XM-Website/static/js/runtime-main.a5f2ffbb.js.map",
     "static/js/2.99ed7010.chunk.js": "/XM-Website/static/js/2.99ed7010.chunk.js",
     "static/js/2.99ed7010.chunk.js.map": "/XM-Website/static/js/2.99ed7010.chunk.js.map",
     "index.html": "/XM-Website/index.html",
-    "precache-manifest.38e0c19da193d32d873d7aa10f7f75e9.js": "/XM-Website/precache-manifest.38e0c19da193d32d873d7aa10f7f75e9.js",
+    "precache-manifest.053a2091ba151e4135b9d97e7f032af3.js": "/XM-Website/precache-manifest.053a2091ba151e4135b9d97e7f032af3.js",
     "service-worker.js": "/XM-Website/service-worker.js",
     "static/css/main.87715e5e.chunk.css.map": "/XM-Website/static/css/main.87715e5e.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.a5f2ffbb.js",
     "static/js/2.99ed7010.chunk.js",
     "static/css/main.87715e5e.chunk.css",
-    "static/js/main.d81f49da.chunk.js"
+    "static/js/main.bdeef526.chunk.js"
   ]
 }
