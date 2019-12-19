@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/XM-Website/precache-manifest.fa06a79ecac844f1f0f62a013cbc93b6.js"
+  "/XM-Website/precache-manifest.7732d753e5c25d82f345dcc2a29b3c01.js"
 );
 
 self.addEventListener('message', (event) => {
